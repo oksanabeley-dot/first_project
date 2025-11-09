@@ -1,5 +1,0 @@
-print("Hello World!")
-print(34)
-print(12.5)
-print('12.5')
-print('Title "Name title"')
